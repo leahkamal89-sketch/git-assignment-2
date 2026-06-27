@@ -93,7 +93,7 @@ Submit a link to your fork of this repository on Google Classroom.
 
 ## Optional Challenge (Fix a Typo Using a Branch)
 
-This part is optional, but recommended if you finish early.
+While this part is optional, its better to do it if you finish early. 
 
 1. Make sure you are on the `main` branch: \
 git status \
